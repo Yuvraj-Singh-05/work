@@ -1,0 +1,78 @@
+body
+{
+    background-color: #F5F3C1;
+    margin:0;
+    text-align: center;
+    font-family: 'Merienda', cursive;
+
+    
+}
+h1
+{
+    font-family: 'Sacramento', cursive;
+
+    margin: 0 ;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.top-container
+{
+    background-color: #F5F3C1;
+   /* width: 200px;
+    height: 200px;
+    border: solid 10px;*/
+}
+.bottom-cloud
+{
+    position: absolute;
+}
+.top-cloud
+{
+    padding-top: 20px;
+    position: relative;
+    left: 200px;
+}
+.nature
+{
+    position: relative;
+    height: 200px;
+    width: 200px;
+}
+.hill
+{
+    position: relative;
+    height: 200px;
+    width: 200px;
+}
+a:hover
+{
+    color: red;
+}
+.ChatGPT
+{
+    border-radius: 100%;
+}
+.drench
+{
+    border-radius: 30%;
+}
+.fact
+{
+    border-radius: 30%;
+}
+
+hr
+{
+    border-style:dotted none none;
+    border-color: gray;
+    border-width: 8px;
+    height: 0px;
+    width: 8%;
+}
